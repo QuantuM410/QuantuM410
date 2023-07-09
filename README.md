@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kartikeys2ks" target="blank"><img src="https://img.shields.io/twitter/follow/kartikeys2ks?logo=twitter&style=for-the-badge" alt="kartikeys2ks" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Dart**
+- 🌱 I’m currently learning **C#, C++**
 
 - 📫 How to reach me **kartikeys410@gmail.com**
 
